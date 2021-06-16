@@ -9,6 +9,9 @@ preview Link:https://venvar.github.io/Tindog/
 
 # Built with
 
-HTML/
-CSS/
-Bootstrap
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  </ul>
+    
