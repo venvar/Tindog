@@ -5,10 +5,10 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 
 # Deployment
 
-preview Link:/
+preview Link:https://venvar.github.io/Tindog/
 
 # Built with
 
-.HTML/
-.CSS/
-.Bootstrap
+HTML/
+CSS/
+Bootstrap
