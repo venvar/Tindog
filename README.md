@@ -13,5 +13,6 @@ preview Link:https://venvar.github.io/Tindog/
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
+  <li>Bootstrap</li>
   </ul>
     
